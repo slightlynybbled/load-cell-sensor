@@ -35,11 +35,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "load cell reader"
+Date "2016-08-02"
+Rev "v0.1"
+Comp "for(embed)"
+Comment1 "www.forembed.com"
 Comment2 ""
 Comment3 ""
 Comment4 ""
